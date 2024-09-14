@@ -1,0 +1,14 @@
+# Directorios de compilación
+/bin/
+/obj/
+
+# Archivos generados por el IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.suo
+
+# Archivos de configuración de usuario
+*.db
+*.log
